@@ -25,7 +25,7 @@ Hello. I am Amol, a Structural Engineer. I hold a bachelor's degree in Civil Eng
 
 I was introduced to ML during research for master’s thesis. Over time, its applications across the spectrum have revolutionized how we see data insomuch that today it has become the differentiator between winners and also-rans in businesses. I aspire to be a part of this revolution. 
 
-My tech-stack<br /> 
+### My tech-stack<br /> 
 Programming - SQL, Python (Numpy, Pandas, Scikit-Learn)<br />
 Visualization - Python (Matplotlib, Seaborn), Tableau<br />
 Big Data - Spark<br />
@@ -43,7 +43,9 @@ Algorithms - Classical ML
 * DBSCAN
 * Principal Component Analysis
 
-I also have a keen interest in Indian Financial System and hold certification in Securities Markets (NISM Series-XII) and Equity Derivatives (NISM Series-VIII) from National Institute of Securities Markets.
+I also have a keen interest in Indian Financial System and hold certification from National Institute of Securities Markets in<br /> 
+Securities Markets (NISM Series-XII)<br /> 
+Equity Derivatives (NISM Series-VIII) 
 
 My CV in pdf.
 
