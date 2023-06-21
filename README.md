@@ -6,8 +6,7 @@ Hello. I am Amol, a Structural Engineer. I hold a bachelor's degree in Civil Eng
 
 I was introduced to ML during research for master’s thesis. Over time, its applications across the spectrum have revolutionized how we see data insomuch that today it has become the differentiator between winners and also-rans in businesses. I aspire to be a part of this revolution. 
 
-My tech stack :-__
-Programming - SQL, Python (Numpy, Pandas, Scikit-Learn)__
+My tech stack :-  Programming - SQL, Python (Numpy, Pandas, Scikit-Learn)__
 Visualization - Python (Matplotlib, Seaborn), Tableau__
 Big Data - Spark__
 Source Controls - Git__
