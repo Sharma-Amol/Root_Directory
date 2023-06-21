@@ -6,7 +6,8 @@ Hello. I am Amol, a Structural Engineer. I hold a bachelor's degree in Civil Eng
 
 I was introduced to ML during research for master’s thesis. Over time, its applications across the spectrum have revolutionized how we see data insomuch that today it has become the differentiator between winners and also-rans in businesses. I aspire to be a part of this revolution. 
 
-My tech stack :-  Programming - SQL, Python (Numpy, Pandas, Scikit-Learn)__
+My tech stack :-<br />  
+Programming - SQL, Python (Numpy, Pandas, Scikit-Learn)<br />
 Visualization - Python (Matplotlib, Seaborn), Tableau__
 Big Data - Spark__
 Source Controls - Git__
@@ -31,10 +32,10 @@ This repository is to showcase my skills, share projects and track my progress t
 
 ## Table of Contents
 
-- About
-- Portfolio Projects
+1. About
+2. Portfolio Projects
  * EU & India – Dependency on Russia for Energy Products (2022)
  * Fandango – Is there a conflict of interest for a website that both sells movie tickets and display review ratings?
  * Ames Housing Dataset – Feature Engineering and Data Preparation
-- Certificates
-- Contacts
+3. Certificates
+4. Contacts
