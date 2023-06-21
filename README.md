@@ -8,11 +8,11 @@ I was introduced to ML during research for master’s thesis. Over time, its app
 
 My tech stack :-<br />  
 Programming - SQL, Python (Numpy, Pandas, Scikit-Learn)<br />
-Visualization - Python (Matplotlib, Seaborn), Tableau__
-Big Data - Spark__
-Source Controls - Git__
-Algorithms - Classical ML__ 
-             o	Linear Regression
+Visualization - Python (Matplotlib, Seaborn), Tableau<br />
+Big Data - Spark<br />
+Source Controls - Git<br />
+Algorithms - Classical ML<br />
+* Linear Regression
              o	Logistic Regression
              o  K Nearest Neighbours
              o	Support Vector Machines
