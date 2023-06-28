@@ -25,6 +25,8 @@ Hello. I am Amol, a Structural Engineer. I hold a bachelor's degree in Civil Eng
 
 I was introduced to ML during research for master’s thesis. Over time, its applications across the spectrum have revolutionized how we see data insomuch that today it has become the differentiator between winners and also-rans in businesses. I aspire to be a part of this revolution. 
 
+**Career Objective** - To leverage my technical background, combined with my proficiency in Python, SQL, and ML, in order to transition into a data centric role. Seeking opportunities to apply algorithms, solve complex problems, and contribute to the development of innovative solutions in a data-driven organization.
+
 **My tech-stack**<br /> 
 Programming     -  SQL, Python (Numpy, Pandas, Scikit-Learn)<br />
 Visualization   -  Python (Matplotlib, Seaborn), Tableau<br />
