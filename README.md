@@ -4,6 +4,12 @@
 
 1. Introduction
 2. Portfolio Projects
+ Finance :-
+   * Option Valuation: Black Scholes v/s Binomial v/s Monte Carlo
+   * Dynamic Volatiltiy Forecasting for Risk Management & Derivatives Valuation: EWMA & GARCH(1,1) approaches
+   * Secondary Research Report on Zero Day Options (0DTE)
+   * Assessing bank customer credit quality using classification algorithms
+ Data Analysis & Machine Learning :-
    * EU & India – Dependency on Russia for Energy Products (2022)
    * Fandango – Is there a conflict of interest for a website that both sells movie tickets and display review ratings?
    * Ames Housing Dataset – Feature Engineering and Data Preparation
@@ -16,23 +22,42 @@
    * CIA Country analysis and clustering.
    * Identified outliers using Hierarchical clustering and DBSCAN on dataset containing annual wholescale spending by customers in Portugal.
    * Figured out which handwritten digits are most differentiated with PCA.
-3. Certificates
-4. Contacts
+4. Certificates
+5. Contacts
    
 ## About 
 
-Welcome to my GitHub portfolio! I am Amol, a dedicated professional with a unique blend of engineering and finance expertise. I hold a Bachelor's degree in Civil Engineering from Jabalpur Engineering College (2014) and a Master's degree in Structural Dynamics and Earthquake Engineering from Visvesvaraya National Institute of Technology, Nagpur (2016). With around six years of experience in the construction and design industry, I have developed strong analytical and problem-solving skills.
-Recently, I completed my Master's in Quantitative Finance and Risk Management from IIT Kanpur (July 2024), where I discovered my passion for financial derivatives and risk management. The versatility of derivatives as instruments for hedging, speculation, and arbitrage fascinates me, as they serve as a bridge between risk-averse and risk-seeking investors. I aspire to become a derivatives analyst, leveraging my technical background and analytical mindset to navigate the complexities of the financial markets.
-I am flexible in my career path and open to opportunities on both the buy-side and sell-side, including internships that will allow me to gain practical experience in the finance sector. My programming skills include:
-Feature Engineering & Data Preparation: Python (NumPy, Pandas), SQL, Alteryx
-Data Visualization: Matplotlib, Seaborn
-Machine Learning: Scikit-Learn
-Microsoft Office: Excel, PowerPoint, Word
-My career objective is to utilize my diverse skill set, combining my engineering background with my finance education, to transition into a financial analyst role. I am eager to tackle complex problems and contribute to innovative solutions within a data-driven organization. Thank you for visiting my portfolio, and I look forward to connecting with like-minded professionals in the field!
+Welcome to my GitHub portfolio! I am Amol, a dedicated professional with a unique blend of engineering and finance expertise.
 
-My CV in pdf.
+I hold a Bachelor's degree in Civil Engineering from Jabalpur Engineering College (2014) and a Master's degree in Structural Dynamics and Earthquake Engineering from Visvesvaraya National Institute of Technology, Nagpur (2016). With around six years of experience in the construction and design industry, I have developed strong analytical and problem-solving skills.
 
-This repository is to showcase my skills, share projects and track my progress towards AI-Driven Data Enlightenment.
+Recently, I completed my Master's in Quantitative Finance and Risk Management from IIT Kanpur (July 2024), where I discovered my passion for financial derivatives and risk management. Derivatives intrigue me due to their multifaceted nature, which allows them to function as a link between investors with varying risk appetites, offering tools for hedging, speculation, and arbitrage. I aspire to become a derivatives analyst, leveraging my technical background and analytical mindset to navigate the complexities of the financial markets.
+
+My programming skills include:
+  * Feature Engineering & Data Preparation: Python (NumPy, Pandas), SQL, Alteryx
+  * Data Visualization: Matplotlib, Seaborn
+  * Machine Learning: Scikit-Learn
+  * Microsoft Office: Excel, PowerPoint, Word
+
+List of courses undertaken:
+  * Foundation of Economics and Finance
+  * Introduction to Derivative Contracts
+  * Quantitative Methods in R  Python
+  * Security Analysis & Portfolio Management
+  * Treasury & Credit Risk Management
+  * ML in Financial Modeling
+  * Advanced Derivatives Contracts & Pricing
+  * Blockchain Application in Finance
+  * Technical Analysis in Finance
+  * Advanced Financial Modeling
+    
+My career objective is to utilize my diverse skill set, combining my engineering background with my finance education, to transition into a financial analyst role. I am eager to tackle complex problems and contribute to innovative solutions within a data-driven organization. 
+
+I am flexible in my career path and open to opportunities on both the buy-side and sell-side, including internships that will allow me to gain practical experience in the finance sector.
+
+My CV in [pdf](https://github.com/Sharma-Amol/Degrees_and_Certificates/blob/main/Master%20Resume%20Amol%20Sharma.pdf).
+
+Thank you for visiting my portfolio, and I look forward to connecting with like-minded professionals in the field!
 
 ## Portfolio Projects
 
@@ -50,3 +75,4 @@ This repository is to showcase my skills, share projects and track my progress t
 ## Contacts
    * LinkedIn: [linkedin.com/in/sharma-amol](https://www.linkedin.com/in/sharma-amol/)
    * E-Mail: [amolsharma_jbp20@yahoo.co.in](mailto:amolsharma_jbp20@yahoo.co.in)
+   * [HackerRank](https://www.hackerrank.com/profile/amolsharma_jbp20)
