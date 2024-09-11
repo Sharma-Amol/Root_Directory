@@ -52,7 +52,7 @@ Thank you for visiting my portfolio, and I look forward to connecting with like-
 9. [Statistics and Probability](https://github.com/Sharma-Amol/Degrees_and_Certificates/blob/efdd70539e0f3f7d69dd61a6ae06ce2465cd6ad0/Probability%20and%20Statistics%20for%20Business%20and%20Data%20Science.pdf) (Nov 2022 | Jose Portilla | Udemy)
 10. [Tableau](https://github.com/Sharma-Amol/Degrees_and_Certificates/blob/efdd70539e0f3f7d69dd61a6ae06ce2465cd6ad0/Tableau%20Training%20for%20Data%20Science.pdf) (Nov 2022 | Kirill Eremenko, Ligency Team | Udemy)
 11. [Data Science and Machine Learning Masterclass](https://github.com/Sharma-Amol/Degrees_and_Certificates/blob/efdd70539e0f3f7d69dd61a6ae06ce2465cd6ad0/Python%20for%20Machine%20Learning%20%26%20Data%20Science%20Masterclass.pdf) (May 2023 | Jose Portilla | Udemy)
-12. Alteryx Bootcamp (Sept 2024 | | Udemy)
+12. Alteryx Bootcamp (Sept 2024 |Hendrik Kleine| Udemy)
 13. [Quantitative Financial Modeling in Microsoft Excel](https://github.com/Sharma-Amol/Degrees_and_Certificates/blob/main/Quantitative%20Financial%20Modeling%20in%20Excel.pdf) (Sept 2024 | Fabian Moa | Udemy)
 
 ## Contacts
