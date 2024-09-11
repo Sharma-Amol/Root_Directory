@@ -37,8 +37,24 @@ Thank you for visiting my portfolio, and I look forward to connecting with like-
 ## Portfolio Projects
 
 ### Finance
-
+1. Option Valuation: Black Scholes v/s Binomial v/s Monte Carlo
+2. Dynamic Volatility Forecasting for Risk Management & Derivatives Valuation: EWMA & GARCH (1,1) approaches.
+3. Secondary Research Report on Zero Day Options (0DTE)
+4. Assessing bank customer credit quality using classification algorithms.
+   
 ### Data Analysis & Machine Learning
+1. (Russia -Ukraine war 2022) EU & India – Dependency on Russia for Energy Products.
+2. Fandango – Is there a conflict of interest for a website that both sells movie tickets and display review ratings?
+3. Ames Housing Dataset – Feature Engineering and Data Preparation.
+4. Linear Regression model on the Ames Housing Dataset
+5. Classification model to predict whether or not a person has presence of heart disease
+6. Analysed sonar frequencies to help distinguish between rocks and sea mines using KNN.
+7. Detected fraudulent wine based on features from a chemical analysis using Support Vector Machine Classifier.
+8. Churn Cohort Analysis using decision trees and random forest
+9. Sentiment Analysis (Text classification) using NLP.
+10. CIA Country analysis and clustering.
+11. Outlier identification using Hierarchical clustering and DBSCAN
+12. Figured out which handwritten digits are most differentiated with PCA. 
 
 ## Certificates
 1. [NISM Series XII - Securities Market Foundation](https://github.com/Sharma-Amol/Degrees_and_Certificates/blob/efdd70539e0f3f7d69dd61a6ae06ce2465cd6ad0/Securities%20Market.pdf) (April 2023 | National Institute of Securities Markets)
