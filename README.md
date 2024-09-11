@@ -2,19 +2,19 @@
 
 ## About 
 
-Welcome to my GitHub portfolio! I am Amol, a dedicated professional with a unique blend of engineering and finance expertise.
+Welcome to my GitHub portfolio! I'm Amol, a dedicated professional with a unique blend of engineering and finance expertise.
 
-I hold a Bachelor's degree in Civil Engineering from Jabalpur Engineering College (2014) and a Master's degree in Structural Dynamics and Earthquake Engineering from Visvesvaraya National Institute of Technology, Nagpur (2016). With around six years of experience in the construction and design industry, I have developed strong analytical and problem-solving skills.
+I hold a Bachelor's degree in Civil Engineering from Jabalpur Engineering College (2014) and a Master's degree in Structural Dynamics and Earthquake Engineering from Visvesvaraya National Institute of Technology, Nagpur (2016). Over six years of experience in the construction and design industry have honed my analytical and problem-solving skills.
 
-Recently, I completed eMasters in Quantitative Finance and Risk Management from IIT Kanpur (July 2024), where I discovered my passion for financial derivatives and risk management. Derivatives intrigue me due to their multifaceted nature, which allows them to function as a link between investors with varying risk appetites, offering tools for hedging, speculation, and arbitrage. I aspire to become a derivatives analyst, drawing upon my technical background and analytical mindset to navigate the intricacies of financial markets. Simultaneously, I remain open to diverse opportunities in financial analysis and quantitative research.
+Recently, I completed an eMasters in Quantitative Finance and Risk Management from IIT Kanpur (July 2024). During this program, I discovered my passion for financial derivatives and risk management. Derivatives intrigue me due to their multifaceted nature—they serve as a crucial link between investors with varying risk appetites, offering tools for hedging, speculation, and arbitrage. My goal is to become a derivatives analyst, leveraging my technical background and analytical mindset to navigate the intricacies of financial markets. Simultaneously, I remain open to diverse opportunities in financial analysis and quantitative research.
 
-My programming skills include:
+Here are my programming skills:
   * Feature Engineering & Data Preparation: Python (NumPy, Pandas), SQL, Alteryx
   * Data Visualization: Matplotlib, Seaborn
   * Machine Learning: Scikit-Learn
   * Microsoft Office: Excel, PowerPoint, Word
 
-Relevant Coursework:
+Relevant coursework includes:
   * Foundation of Economics and Finance
   * Introduction to Derivative Contracts
   * Quantitative Methods in R  Python
@@ -26,9 +26,9 @@ Relevant Coursework:
   * Technical Analysis in Finance
   * Advanced Financial Modeling
     
-My career objective is to utilize my diverse skill set, combining my engineering background with my finance education, to transition into a financial analyst role. I am eager to tackle complex problems and contribute to innovative solutions within a data-driven organization. 
+My career objective is to leverage my diverse skill set—combining my engineering background with my finance education—to transition into a financial analyst role. I’m eager to tackle complex problems and contribute to innovative solutions within data-driven organizations. 
 
-I am flexible in my career path and open to opportunities on both the buy-side and sell-side, including internships that will allow me to gain practical experience in the finance sector.
+I remain flexible in my career path, open to opportunities on both the buy-side and sell-side. Internships that allow me to gain practical experience in the finance sector are also of interest.
 
 My CV in [pdf](https://github.com/Sharma-Amol/Degrees_and_Certificates/blob/main/Master%20Resume%20Amol%20Sharma.pdf).
 
