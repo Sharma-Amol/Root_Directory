@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-1. About
+1. Introduction
 2. Portfolio Projects
    * EU & India – Dependency on Russia for Energy Products (2022)
    * Fandango – Is there a conflict of interest for a website that both sells movie tickets and display review ratings?
@@ -21,33 +21,14 @@
    
 ## About 
 
-Hello. I am Amol, a Structural Engineer. I hold a bachelor's degree in Civil Engineering from Jabalpur Engineering College and master's degree in Structural Dynamics and Earthquake Engineering from Visvesvaraya National Institute of Technology, Nagpur. I have 3.5 yrs of industry experience in supply,erection and commissioning of LT distribution lines.
-
-I was introduced to ML during research for master’s thesis. Over time, its applications across the spectrum have revolutionized how we see data insomuch that today it has become the differentiator between winners and also-rans in businesses. I aspire to be a part of this revolution. 
-
-**Career Objective** - To leverage my technical background, combined with my proficiency in Python, SQL, and ML, in order to transition into a data centric role. Seeking opportunities to apply algorithms, solve complex problems, and contribute to the development of innovative solutions in a data-driven organization.
-
-**My tech-stack**<br /> 
-Programming     -  SQL, Python (Numpy, Pandas, Scikit-Learn)<br />
-Visualization   -  Python (Matplotlib, Seaborn), Tableau<br />
-Big Data        -  Spark<br />
-Source Controls -  Git<br />
-Algorithms - Classical ML
-* Linear Regression
-* Logistic Regression
-* K Nearest Neighbours
-* Support Vector Machines
-* Decision Tree and Random Forest
-* Boosting Methods (AdaBoost and Gradient Boosting)
-* Naïve Bayes Classification and Natural Language Processing
-* K-Means Clustering
-* Hierarchical Clustering
-* DBSCAN
-* Principal Component Analysis
-
-I also have a keen interest in Indian Financial System and hold certification from National Institute of Securities Markets in<br /> 
-* Securities Markets (NISM Series-XII) 
-* Equity Derivatives (NISM Series-VIII) 
+Welcome to my GitHub portfolio! I am Amol, a dedicated professional with a unique blend of engineering and finance expertise. I hold a Bachelor's degree in Civil Engineering from Jabalpur Engineering College (2014) and a Master's degree in Structural Dynamics and Earthquake Engineering from Visvesvaraya National Institute of Technology, Nagpur (2016). With around six years of experience in the construction and design industry, I have developed strong analytical and problem-solving skills.
+Recently, I completed my Master's in Quantitative Finance and Risk Management from IIT Kanpur (July 2024), where I discovered my passion for financial derivatives and risk management. The versatility of derivatives as instruments for hedging, speculation, and arbitrage fascinates me, as they serve as a bridge between risk-averse and risk-seeking investors. I aspire to become a derivatives analyst, leveraging my technical background and analytical mindset to navigate the complexities of the financial markets.
+I am flexible in my career path and open to opportunities on both the buy-side and sell-side, including internships that will allow me to gain practical experience in the finance sector. My programming skills include:
+Feature Engineering & Data Preparation: Python (NumPy, Pandas), SQL, Alteryx
+Data Visualization: Matplotlib, Seaborn
+Machine Learning: Scikit-Learn
+Microsoft Office: Excel, PowerPoint, Word
+My career objective is to utilize my diverse skill set, combining my engineering background with my finance education, to transition into a financial analyst role. I am eager to tackle complex problems and contribute to innovative solutions within a data-driven organization. Thank you for visiting my portfolio, and I look forward to connecting with like-minded professionals in the field!
 
 My CV in pdf.
 
