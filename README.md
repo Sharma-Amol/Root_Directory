@@ -37,7 +37,7 @@ Thank you for visiting my portfolio, and I look forward to connecting with like-
 ## Portfolio Projects
 
 ### Finance
-**1. Option Valuation: Black Scholes v/s Binomial v/s Monte Carlo**
+[**1. Option Valuation: Black Scholes v/s Binomial v/s Monte Carlo**](https://github.com/Sharma-Amol/Option-Valuation)
 
   * Conducted option pricing for Tata Steel options using Black-Scholes, Binomial, and Monte Carlo methods in Python; analyzed pricing discrepancies and volatility smiles.
 
