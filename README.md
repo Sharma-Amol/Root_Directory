@@ -30,7 +30,7 @@ My career objective is to leverage my diverse skill set—combining my engineeri
 
 I remain flexible in my career path, open to opportunities on both the buy-side and sell-side. Internships that allow me to gain practical experience in the finance sector are also of interest.
 
-My CV in [pdf](https://github.com/Sharma-Amol/Degrees_and_Certificates/blob/main/Master%20Resume%20Amol%20Sharma.pdf).
+My CV in [pdf](https://github.com/Sharma-Amol/Degrees_and_Certificates/blob/main/Resume%20%20Jan%202025.pdf)
 
 Thank you for visiting my portfolio, and I look forward to connecting with like-minded professionals in the field!
 
