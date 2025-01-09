@@ -9,7 +9,7 @@ I hold a Bachelor's degree in Civil Engineering from Jabalpur Engineering Colleg
 Recently, I completed an eMasters in Quantitative Finance and Risk Management from IIT Kanpur (July 2024). During this program, I discovered my passion for financial derivatives and risk management. Derivatives intrigue me due to their multifaceted nature—they serve as a crucial link between investors with varying risk appetites, offering tools for hedging, speculation, and arbitrage. My goal is to become a derivatives analyst, leveraging my technical background and analytical mindset to navigate the intricacies of financial markets. Simultaneously, I remain open to diverse opportunities in financial analysis and quantitative research.
 
 Here are my programming skills:
-  * Feature Engineering & Data Preparation: Python (NumPy, Pandas), SQL, Alteryx
+  * Feature Engineering & Data Preparation: NumPy, Pandas, SQL
   * Data Visualization: Matplotlib, Seaborn
   * Machine Learning: Scikit-Learn
   * Microsoft Office: Excel, PowerPoint, Word
