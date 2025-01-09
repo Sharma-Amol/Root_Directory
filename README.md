@@ -37,10 +37,13 @@ Thank you for visiting my portfolio, and I look forward to connecting with like-
 ## Portfolio Projects
 
 ### Finance
-1. Option Valuation: Black Scholes v/s Binomial v/s Monte Carlo
-2. Dynamic Volatility Forecasting for Risk Management & Derivatives Valuation: EWMA & GARCH (1,1) approaches.
-3. Secondary Research Report on Zero Day Options (0DTE)
-4. Assessing bank customer credit quality using classification algorithms.
+**1. Option Valuation: Black Scholes v/s Binomial v/s Monte Carlo**
+•	Conducted option pricing for Tata Steel options using Black-Scholes, Binomial, and Monte Carlo methods in Python; analyzed pricing discrepancies and volatility smiles.
+•	Modeled dynamic delta hedging for ATM call options using the 'Python in Excel' feature and examined option Greeks’ variation with underlying price and time, deriving actionable insights for risk management.
+   
+**2. Dynamic Volatility Forecasting for Risk Management & Derivatives Valuation: EWMA & GARCH (1,1) approaches.**
+ 
+**3. Secondary Research Report on Zero Day Options (0DTE)**
    
 ### Data Analysis & Machine Learning
 1. (Russia -Ukraine war 2022) EU & India – Dependency on Russia for Energy Products.
