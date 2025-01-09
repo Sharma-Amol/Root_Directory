@@ -39,9 +39,9 @@ Thank you for visiting my portfolio, and I look forward to connecting with like-
 ### Finance
 **1. Option Valuation: Black Scholes v/s Binomial v/s Monte Carlo**
 
-•	Conducted option pricing for Tata Steel options using Black-Scholes, Binomial, and Monte Carlo methods in Python; analyzed pricing discrepancies and volatility smiles.
+     •	Conducted option pricing for Tata Steel options using Black-Scholes, Binomial, and Monte Carlo methods in Python; analyzed pricing discrepancies and volatility smiles.
 
-•	Modeled dynamic delta hedging for ATM call options using the 'Python in Excel' feature and examined option Greeks’ variation with underlying price and time, deriving actionable insights for risk management.
+     •	Modeled dynamic delta hedging for ATM call options using the 'Python in Excel' feature and examined option Greeks’ variation with underlying price and time, deriving actionable insights for risk management.
    
 **2. Dynamic Volatility Forecasting for Risk Management & Derivatives Valuation: EWMA & GARCH (1,1) approaches.**
  
