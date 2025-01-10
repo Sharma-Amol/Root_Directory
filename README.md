@@ -61,7 +61,9 @@ Thank you for visiting my portfolio, and I look forward to connecting with like-
 [**1. (Russia -Ukraine war 2022) EU & India – Dependency on Russia for Energy Products.**](https://github.com/Sharma-Amol/EU_and_India-Dependency_on_Russia_for_Energy_Products)
   * The project examines the global repercussions of the Russia-Ukraine conflict, particularly focusing on how it affects energy dependence in the European Union and India, amidst rising commodity prices and supply chain disruptions, while highlighting India's contrasting stance on Russian oil imports despite widespread sanctions.
     
-2. Fandango – Is there a conflict of interest for a website that both sells movie tickets and display review ratings?
+[**2. Fandango – Is there a conflict of interest for a website that both sells movie tickets and display review ratings?**](https://github.com/Sharma-Amol/Fandango)
+  * Explored whether Fandango's ratings in 2015 had a bias towards rating movies better to sell more tickets using pandas and visualization skills.
+
 3. Ames Housing Dataset – Feature Engineering and Data Preparation.
 
 ### Machine Learning
