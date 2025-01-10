@@ -43,7 +43,14 @@ Thank you for visiting my portfolio, and I look forward to connecting with like-
 
   * Modeled dynamic delta hedging for ATM call options using the 'Python in Excel' feature and examined option Greeks’ variation with underlying price and time, deriving actionable insights for risk management.
    
-**2. Dynamic Volatility Forecasting for Risk Management & Derivatives Valuation: EWMA & GARCH (1,1) approaches.**
+[**2. Dynamic Volatility Forecasting for Risk Management & Derivatives Valuation: EWMA & GARCH (1,1) approaches.**](https://github.com/Sharma-Amol/Dynamic-Volatility-Forecasting)
+
+  * Forecasted NIFTY 50 volatility using EWMA and GARCH models, validating with econometric tests.
+    
+  * Priced near-month call and put options on NIFTY 50 using forecasted volatility, including implied volatility calculations.
+    
+  * Calculated VaR for a single stock portfolio, projecting risk over specified horizons and confidence intervals.
+
  
 **3. Secondary Research Report on Zero Day Options (0DTE)**
    
