@@ -52,7 +52,9 @@ Thank you for visiting my portfolio, and I look forward to connecting with like-
   * Calculated VaR for a single stock portfolio, projecting risk over specified horizons and confidence intervals.
 
  
-**3. Secondary Research Report on Zero Day Options (0DTE)**
+[**3. Secondary Research Report on Zero Day Options (0DTE)**](https://github.com/Sharma-Amol/0DTE-Options)
+
+  * Conducted a Secondary Research Report on Zero-Day-to-Expiry (0DTE) Options, analyzing media perspectives, associated volatility patterns (VIX1D Index), retail trading trends, and regulatory challenges. Highlighted implications for market stability and business strategies.
    
 ### Data Analysis & Machine Learning
 1. (Russia -Ukraine war 2022) EU & India – Dependency on Russia for Energy Products.
