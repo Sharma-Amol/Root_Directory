@@ -70,17 +70,17 @@ Thank you for visiting my portfolio, and I look forward to connecting with like-
 
 **Unsupervised Learning**
 
-[**1. CIA Country analysis and clustering.**](https://github.com/Sharma-Amol/CIA-Country-Analysis)
+  [**1. CIA Country analysis and clustering.**](https://github.com/Sharma-Amol/CIA-Country-Analysis)
   * Used K-Means CLustering to gain insights into similarities between countries and regions of the world by experimenting with different cluster amounts and understand what these clusters represents.
   
-2. Outlier identification using Hierarchical clustering and DBSCAN
-3. Figured out which handwritten digits are most differentiated with PCA.
+  2. Outlier identification using Hierarchical clustering and DBSCAN
+  3. Figured out which handwritten digits are most differentiated with PCA.
 
 **Supervised Learning**
-1. Linear Regression model on the Ames Housing Dataset
-2. Classification model to predict whether or not a person has presence of heart disease
-3. Analysed sonar frequencies to help distinguish between rocks and sea mines using KNN.
-4. Detected fraudulent wine based on features from a chemical analysis using Support Vector Machine Classifier
+  1. Linear Regression model on the Ames Housing Dataset
+  2. Classification model to predict whether or not a person has presence of heart disease
+  3. Analysed sonar frequencies to help distinguish between rocks and sea mines using KNN.
+  4. Detected fraudulent wine based on features from a chemical analysis using Support Vector Machine Classifier
 
 ## Certificates
 1. [NISM Series XII - Securities Market Foundation](https://github.com/Sharma-Amol/Degrees_and_Certificates/blob/efdd70539e0f3f7d69dd61a6ae06ce2465cd6ad0/Securities%20Market.pdf) (April 2023 | National Institute of Securities Markets)
