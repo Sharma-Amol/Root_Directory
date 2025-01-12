@@ -70,7 +70,9 @@ Thank you for visiting my portfolio, and I look forward to connecting with like-
 
 **Unsupervised Learning**
 
-1. CIA Country analysis and clustering.
+[1. CIA Country analysis and clustering.] (https://github.com/Sharma-Amol/CIA-Country-Analysis)
+  * Used K-Means CLustering to gain insights into similarities between countries and regions of the world by experimenting with different cluster amounts and understand what these clusters represents.
+  
 2. Outlier identification using Hierarchical clustering and DBSCAN
 3. Figured out which handwritten digits are most differentiated with PCA.
 
