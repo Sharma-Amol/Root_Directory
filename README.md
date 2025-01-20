@@ -64,7 +64,8 @@ Thank you for visiting my portfolio, and I look forward to connecting with like-
 [**2. Fandango – Is there a conflict of interest for a website that both sells movie tickets and display review ratings?**](https://github.com/Sharma-Amol/Fandango)
   * Explored whether Fandango's ratings in 2015 had a bias towards rating movies better to sell more tickets using pandas and visualization skills.
 
-3. Ames Housing Dataset – Feature Engineering and Data Preparation.
+[**3. Ames Housing Dataset – Feature Engineering and Data Preparation.**](https://github.com/Sharma-Amol/Ames-Housing-Dataset)
+  * Conducted feature engineering to identify and eliminate outliers, as well as to address missing and categorical data, as part of the preprocessing steps prior to applying machine learning models. 
 
 ### Machine Learning
 
