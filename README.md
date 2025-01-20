@@ -77,8 +77,9 @@ Thank you for visiting my portfolio, and I look forward to connecting with like-
  [**2. Outlier identification using Hierarchical clustering and DBSCAN**](https://github.com/Sharma-Amol/Wholesale-spending---Portugal)
  * Identified clusters and outliers based on annual spending across various product categories using a wholesale distributor's client dataset from Portugal.
 
-  3. Figured out which handwritten digits are most differentiated with PCA.
-
+ [**3. Figuring out which handwritten digits are most differentiated with PCA**](https://github.com/Sharma-Amol/Figuring-handwritten-digits-PCA-)
+ * Identified which handwritten numbers are the hardest to tell apart so that focus can be laid on getting more labeled examples of that data
+   
 **Supervised Learning**
   1. Linear Regression model on the Ames Housing Dataset
   2. Classification model to predict whether or not a person has presence of heart disease
