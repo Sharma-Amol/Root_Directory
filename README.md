@@ -91,7 +91,8 @@ Thank you for visiting my portfolio, and I look forward to connecting with like-
   [**3. KNN Classification on Sonar Data.**](https://github.com/Sharma-Amol/Sonar-Data-Classification---KNN)
   * Created a machine learning model capable of detecting the difference between a rock or a mine based on the response of the 60 separate sonar frequencies. Also utilied PipeLine and GridSearchCV tools.
   
-  4. Detected fraudulent wine based on features from a chemical analysis using Support Vector Machine Classifier
+  [**4. SVC - Fraud in Wine**](https://github.com/Sharma-Amol/Fraud-in-Wine---SVM)
+  * Trained Support Vector Classification on wine dataset to develop a model that attempts to predict if a wine is "Legit" or "Fraud" based on various chemical features.
 
 ## Certificates
 1. [NISM Series XII - Securities Market Foundation](https://github.com/Sharma-Amol/Degrees_and_Certificates/blob/efdd70539e0f3f7d69dd61a6ae06ce2465cd6ad0/Securities%20Market.pdf) (April 2023 | National Institute of Securities Markets)
