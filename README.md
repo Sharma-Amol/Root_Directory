@@ -81,6 +81,7 @@ Thank you for visiting my portfolio, and I look forward to connecting with like-
  * Identified which handwritten numbers are the hardest to tell apart so that focus can be laid on getting more labeled examples of that data
    
 **Supervised Learning**
+
   [**1. Linear Regression model on the Ames Housing Dataset**](https://github.com/Sharma-Amol/Ames---Linear-Regression)
  * Trained a Linear Regression Model on cleaned Ames Housing Dataset using a grid search for optimal parameters and evaluated the model's capabilities on a test set. 
   
