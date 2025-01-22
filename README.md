@@ -81,7 +81,9 @@ Thank you for visiting my portfolio, and I look forward to connecting with like-
  * Identified which handwritten numbers are the hardest to tell apart so that focus can be laid on getting more labeled examples of that data
    
 **Supervised Learning**
-  1. Linear Regression model on the Ames Housing Dataset
+  [**1. Linear Regression model on the Ames Housing Dataset**](https://github.com/Sharma-Amol/Ames---Linear-Regression)
+ * Trained a Linear Regression Model on cleaned Ames Housing Dataset using a grid search for optimal parameters and evaluated the model's capabilities on a test set. 
+  
   2. Classification model to predict whether or not a person has presence of heart disease
   3. Analysed sonar frequencies to help distinguish between rocks and sea mines using KNN.
   4. Detected fraudulent wine based on features from a chemical analysis using Support Vector Machine Classifier
