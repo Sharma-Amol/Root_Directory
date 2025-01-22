@@ -6,7 +6,7 @@ Welcome to my GitHub portfolio! I'm Amol, a dedicated professional with a unique
 
 I hold a Bachelor's degree in Civil Engineering from Jabalpur Engineering College (2014) and a Master's degree in Structural Dynamics and Earthquake Engineering from Visvesvaraya National Institute of Technology, Nagpur (2016). Over six years of experience in the construction and design industry have honed my analytical and problem-solving skills.
 
-Recently, I completed an eMasters in Quantitative Finance and Risk Management from IIT Kanpur (July 2024). During this program, I developed a strong interest in financial derivatives and risk management. The multifaceted nature of derivatives captivates me, as they connect investors with varying risk appetites and offer essential tools for hedging, speculation, and arbitrage. I am eager to apply my technical background and analytical mindset to explore opportunities within the realms of derivatives and risk management, while remaining open to diverse roles in financial analysis and quantitative research.
+Recently, I completed an **eMasters in Quantitative Finance and Risk Management from IIT Kanpur** (July 2024). During this program, I developed a strong interest in financial derivatives and risk management. The multifaceted nature of derivatives captivates me, as they connect investors with varying risk appetites and offer essential tools for hedging, speculation, and arbitrage. I am eager to apply my technical background and analytical mindset to explore opportunities within the realms of derivatives and risk management, while remaining open to diverse roles in financial analysis and quantitative research.
 
 Here are my programming skills:
   * Feature Engineering & Data Preparation: NumPy, Pandas, SQL
