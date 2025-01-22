@@ -85,7 +85,9 @@ Thank you for visiting my portfolio, and I look forward to connecting with like-
   [**1. Linear Regression model on the Ames Housing Dataset**](https://github.com/Sharma-Amol/Ames---Linear-Regression)
  * Trained a Linear Regression Model on cleaned Ames Housing Dataset using a grid search for optimal parameters and evaluated the model's capabilities on a test set. 
   
-  2. Classification model to predict whether or not a person has presence of heart disease
+  [**2. Classification model for heart disease**](https://github.com/Sharma-Amol/Heart-Disease---Logistic-Regression)
+ * Created a Classification Model that can predict whether or not a person has presence of heart disease based on features based on physical testing of that person (age, sex, cholestrol, fasting blood sugar, etc).
+  
   3. Analysed sonar frequencies to help distinguish between rocks and sea mines using KNN.
   4. Detected fraudulent wine based on features from a chemical analysis using Support Vector Machine Classifier
 
