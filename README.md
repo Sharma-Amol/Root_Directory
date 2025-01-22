@@ -88,7 +88,9 @@ Thank you for visiting my portfolio, and I look forward to connecting with like-
   [**2. Classification model for heart disease**](https://github.com/Sharma-Amol/Heart-Disease---Logistic-Regression)
  * Created a Classification Model that can predict whether or not a person has presence of heart disease based on features based on physical testing of that person (age, sex, cholestrol, fasting blood sugar, etc).
   
-  3. Analysed sonar frequencies to help distinguish between rocks and sea mines using KNN.
+  [**3. KNN Classification on Sonar Data.**](https://github.com/Sharma-Amol/Sonar-Data-Classification---KNN)
+  * Created a machine learning model capable of detecting the difference between a rock or a mine based on the response of the 60 separate sonar frequencies. Also utilied PipeLine and GridSearchCV tools.
+  
   4. Detected fraudulent wine based on features from a chemical analysis using Support Vector Machine Classifier
 
 ## Certificates
